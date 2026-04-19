@@ -1,0 +1,371 @@
+{
+  "portfolio_metrics": [
+    {
+      "snapshot_date": "2025-01-01",
+      "accounts": 8935,
+      "par30_rate": 0.3541130386121992,
+      "default_rate": 0.30665920537213204,
+      "repayment_rate": 0.42048452378842305,
+      "avg_days_past_due": 71.90520425293788,
+      "active_to_closed_ratio": 1.8293370944992948
+    },
+    {
+      "snapshot_date": "2025-03-30",
+      "accounts": 8935,
+      "par30_rate": 0.3541130386121992,
+      "default_rate": 0.30665920537213204,
+      "repayment_rate": 0.42048452378842305,
+      "avg_days_past_due": 71.90520425293788,
+      "active_to_closed_ratio": 1.8293370944992948
+    },
+    {
+      "snapshot_date": "2025-06-30",
+      "accounts": 11024,
+      "par30_rate": 0.386611030478955,
+      "default_rate": 0.3355406386066763,
+      "repayment_rate": 0.40975973216975603,
+      "avg_days_past_due": 90.45654934687954,
+      "active_to_closed_ratio": 1.4413675213675214
+    },
+    {
+      "snapshot_date": "2025-09-30",
+      "accounts": 13891,
+      "par30_rate": 0.38636527247858327,
+      "default_rate": 0.34662731264847746,
+      "repayment_rate": 0.40552653684990037,
+      "avg_days_past_due": 104.44662011374271,
+      "active_to_closed_ratio": 1.1602067183462532
+    },
+    {
+      "snapshot_date": "2025-12-30",
+      "accounts": 16864,
+      "par30_rate": 0.390180265654649,
+      "default_rate": 0.3499762808349146,
+      "repayment_rate": 0.40601716098830043,
+      "avg_days_past_due": 119.21187144212524,
+      "active_to_closed_ratio": 0.9341098748261474
+    }
+  ],
+  "age_segment_metrics": [
+    {
+      "snapshot_date": "2025-01-01",
+      "age_band": "18\u201325",
+      "accounts": 708,
+      "par30_rate": 0.0,
+      "default_rate": 0.0635593220338983,
+      "repayment_rate": 0.4916851647025917,
+      "avg_days_past_due": 0.9562146892655368,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-01-01",
+      "age_band": "26\u201335",
+      "accounts": 279,
+      "par30_rate": 0.014336917562724014,
+      "default_rate": 0.06810035842293907,
+      "repayment_rate": 0.4847815148116421,
+      "avg_days_past_due": 2.2007168458781363,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-01-01",
+      "age_band": "36\u201345",
+      "accounts": 235,
+      "par30_rate": 0.08085106382978724,
+      "default_rate": 0.09361702127659574,
+      "repayment_rate": 0.48141118859019894,
+      "avg_days_past_due": 4.097872340425532,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-01-01",
+      "age_band": "46\u201355",
+      "accounts": 235,
+      "par30_rate": 0.14468085106382977,
+      "default_rate": 0.11914893617021277,
+      "repayment_rate": 0.475938480460977,
+      "avg_days_past_due": 7.404255319148936,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-01-01",
+      "age_band": "55+",
+      "accounts": 7478,
+      "par30_rate": 0.4154854239101364,
+      "default_rate": 0.3511634126771864,
+      "repayment_rate": 0.407687203608004,
+      "avg_days_past_due": 85.38098422037979,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-03-30",
+      "age_band": "18\u201325",
+      "accounts": 708,
+      "par30_rate": 0.0,
+      "default_rate": 0.0635593220338983,
+      "repayment_rate": 0.4916851647025917,
+      "avg_days_past_due": 0.9562146892655368,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-03-30",
+      "age_band": "26\u201335",
+      "accounts": 279,
+      "par30_rate": 0.014336917562724014,
+      "default_rate": 0.06810035842293907,
+      "repayment_rate": 0.4847815148116421,
+      "avg_days_past_due": 2.2007168458781363,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-03-30",
+      "age_band": "36\u201345",
+      "accounts": 235,
+      "par30_rate": 0.08085106382978724,
+      "default_rate": 0.09361702127659574,
+      "repayment_rate": 0.48141118859019894,
+      "avg_days_past_due": 4.097872340425532,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-03-30",
+      "age_band": "46\u201355",
+      "accounts": 235,
+      "par30_rate": 0.14468085106382977,
+      "default_rate": 0.11914893617021277,
+      "repayment_rate": 0.475938480460977,
+      "avg_days_past_due": 7.404255319148936,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-03-30",
+      "age_band": "55+",
+      "accounts": 7478,
+      "par30_rate": 0.4154854239101364,
+      "default_rate": 0.3511634126771864,
+      "repayment_rate": 0.407687203608004,
+      "avg_days_past_due": 85.38098422037979,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-06-30",
+      "age_band": "18\u201325",
+      "accounts": 687,
+      "par30_rate": 0.0,
+      "default_rate": 0.08005822416302766,
+      "repayment_rate": 0.48122973517085305,
+      "avg_days_past_due": 1.225618631732169,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-06-30",
+      "age_band": "26\u201335",
+      "accounts": 271,
+      "par30_rate": 0.025830258302583026,
+      "default_rate": 0.11070110701107011,
+      "repayment_rate": 0.47341977154833664,
+      "avg_days_past_due": 4.081180811808118,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-06-30",
+      "age_band": "36\u201345",
+      "accounts": 191,
+      "par30_rate": 0.13612565445026178,
+      "default_rate": 0.18324607329842932,
+      "repayment_rate": 0.46449415380932896,
+      "avg_days_past_due": 7.513089005235602,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-06-30",
+      "age_band": "46\u201355",
+      "accounts": 258,
+      "par30_rate": 0.1124031007751938,
+      "default_rate": 0.10077519379844961,
+      "repayment_rate": 0.4817160537202047,
+      "avg_days_past_due": 6.48062015503876,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-06-30",
+      "age_band": "55+",
+      "accounts": 9617,
+      "par30_rate": 0.4367266299261724,
+      "default_rate": 0.3694499324113549,
+      "repayment_rate": 0.39984283831236384,
+      "avg_days_past_due": 103.16502027659354,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-09-30",
+      "age_band": "18\u201325",
+      "accounts": 821,
+      "par30_rate": 0.0,
+      "default_rate": 0.057247259439707675,
+      "repayment_rate": 0.4676258669798344,
+      "avg_days_past_due": 1.2216808769792935,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-09-30",
+      "age_band": "26\u201335",
+      "accounts": 387,
+      "par30_rate": 0.015503875968992248,
+      "default_rate": 0.10335917312661498,
+      "repayment_rate": 0.4746723591305972,
+      "avg_days_past_due": 3.242894056847545,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-09-30",
+      "age_band": "36\u201345",
+      "accounts": 305,
+      "par30_rate": 0.10491803278688525,
+      "default_rate": 0.1377049180327869,
+      "repayment_rate": 0.4607844572458304,
+      "avg_days_past_due": 6.501639344262295,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-09-30",
+      "age_band": "46\u201355",
+      "accounts": 323,
+      "par30_rate": 0.1393188854489164,
+      "default_rate": 0.12074303405572756,
+      "repayment_rate": 0.4633034853735045,
+      "avg_days_past_due": 7.365325077399381,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-09-30",
+      "age_band": "55+",
+      "accounts": 12055,
+      "par30_rate": 0.4383243467440896,
+      "default_rate": 0.38548320199087516,
+      "repayment_rate": 0.3961313810346204,
+      "avg_days_past_due": 119.80489423475736,
+      "is_latest_snapshot": false
+    },
+    {
+      "snapshot_date": "2025-12-30",
+      "age_band": "18\u201325",
+      "accounts": 816,
+      "par30_rate": 0.0,
+      "default_rate": 0.06862745098039216,
+      "repayment_rate": 0.4875251064683957,
+      "avg_days_past_due": 1.0392156862745099,
+      "is_latest_snapshot": true
+    },
+    {
+      "snapshot_date": "2025-12-30",
+      "age_band": "26\u201335",
+      "accounts": 345,
+      "par30_rate": 0.011594202898550725,
+      "default_rate": 0.06666666666666667,
+      "repayment_rate": 0.4888084753615173,
+      "avg_days_past_due": 2.2028985507246377,
+      "is_latest_snapshot": true
+    },
+    {
+      "snapshot_date": "2025-12-30",
+      "age_band": "36\u201345",
+      "accounts": 288,
+      "par30_rate": 0.06944444444444445,
+      "default_rate": 0.0798611111111111,
+      "repayment_rate": 0.4778941761255553,
+      "avg_days_past_due": 3.8402777777777777,
+      "is_latest_snapshot": true
+    },
+    {
+      "snapshot_date": "2025-12-30",
+      "age_band": "46\u201355",
+      "accounts": 346,
+      "par30_rate": 0.12138728323699421,
+      "default_rate": 0.11271676300578035,
+      "repayment_rate": 0.47477842136920806,
+      "avg_days_past_due": 6.661849710982659,
+      "is_latest_snapshot": true
+    },
+    {
+      "snapshot_date": "2025-12-30",
+      "age_band": "55+",
+      "accounts": 15069,
+      "par30_rate": 0.43227818700643705,
+      "default_rate": 0.38230804963833037,
+      "repayment_rate": 0.39675540085678385,
+      "avg_days_past_due": 133.07916915521932,
+      "is_latest_snapshot": true
+    }
+  ],
+  "nps_summary": {
+    "joined_accounts": 3026,
+    "avg_nps_default": 5.070776255707763,
+    "avg_nps_non_default": 6.92774343122102,
+    "avg_nps_arrears_30_plus": 5.158894645941278,
+    "avg_nps_current": 7.013894564773191
+  },
+  "latest_status_breakdown": {
+    "PAR 30": 3752,
+    "FMD": 720,
+    "Active": 5373,
+    "Inactive": 312,
+    "Paid Off": 4025,
+    "Return": 1415,
+    "FPD": 903,
+    "PAR 7": 362,
+    "Unknown": 2
+  },
+  "latest_missingness_top10": [
+    {
+      "column": "unnamed_col",
+      "missing_rows": 16864,
+      "missing_rate": 1.0
+    },
+    {
+      "column": "PAYMENT_AMOUNT",
+      "missing_rows": 15849,
+      "missing_rate": 0.9398126185958254
+    },
+    {
+      "column": "ADJUSTMENT_AMOUNT",
+      "missing_rows": 15849,
+      "missing_rate": 0.9398126185958254
+    },
+    {
+      "column": "RETURN_DATE",
+      "missing_rows": 15295,
+      "missing_rate": 0.9069615749525617
+    },
+    {
+      "column": "MAX_PAYMENT_DATE",
+      "missing_rows": 206,
+      "missing_rate": 0.012215370018975331
+    },
+    {
+      "column": "TOTAL_DUE_TODAY",
+      "missing_rows": 6,
+      "missing_rate": 0.0003557874762808349
+    },
+    {
+      "column": "BALANCE_DUE_TO_DATE",
+      "missing_rows": 6,
+      "missing_rate": 0.0003557874762808349
+    },
+    {
+      "column": "BALANCE",
+      "missing_rows": 2,
+      "missing_rate": 0.00011859582542694497
+    },
+    {
+      "column": "CLOSING_BALANCE",
+      "missing_rows": 2,
+      "missing_rate": 0.00011859582542694497
+    },
+    {
+      "column": "DEPOSIT",
+      "missing_rows": 2,
+      "missing_rate": 0.00011859582542694497
+    }
+  ]
+}
