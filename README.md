@@ -58,6 +58,7 @@ Contains loan-linked survey responses and 0–10 NPS scores.
 - **Notebook:** `deliverables/MoPhones_Credit_Case_Study.ipynb`
 - **Slide deck (12-slide structure):** `deliverables/MoPhones_Credit_Case_Study_Slides.md`
 - **Analysis script:** `scripts/mophones_case_analysis.py`
+- **Proposed reporting data model (ERD + DAG):** `deliverables/MoPhones_Data_Model.md`
 - **Generated outputs:**
   - `deliverables/outputs/analysis_summary.json`
   - `deliverables/outputs/portfolio_metrics.csv`
